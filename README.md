@@ -3,6 +3,7 @@
 📋 Project Goals
 
 This project uses Pandas to answer key operational questions:
+dataset source : https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes
 
 **Location Tracking**: Identify the top 5 areas where pets are found for better patrol coordination.
 
@@ -19,3 +20,5 @@ Animal Types: Per Analysis Dogs and Cats are the most animal type found in the S
 Adoption Rates: Targeted data on the top 5 breeds and colors to see which animals stay in the shelter longer.
 
 Found Location : Per Insight we could tell the location Austin(TX) is the area where most stray or abodoned pets are found.
+
+
